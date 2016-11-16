@@ -1,0 +1,481 @@
+ body, html{
+   
+    font-family: 'Open Sans', sans-serif;
+    
+  }
+
+a, li{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#nav-container{
+background: black !important;
+position: fixed !important;
+z-index: 999;
+height: 100%;
+padding-left: 5%;
+}
+
+@media only screen and (max-width: 414px) {
+
+.progress{
+    margin-bottom: 5px;
+}
+
+.education label{
+    color: grey;
+}
+.tech-box label{
+        color: grey;
+}
+.progress span{
+    color: grey;
+}
+.education h4{
+    color: grey;
+}
+.teaching h3, h4, p{
+      color: black;
+}
+.contact h3, h4, p{
+    color: black;
+}
+.main-panel{
+    position: relative;  
+    height: 100%; 
+    padding-right: 0px;
+}
+
+#main{
+    /*padding-left: 10%;*/
+    margin-left: 0%;
+    padding-left: 0px;
+}
+
+.main-area h1{
+    font-size: 9vw;
+}
+.main-area img{
+    height: 11%; 
+    /*float: left;*/
+}
+.right-container{
+    
+    background: black !important;
+    position: relative;
+/*z-index: 999;*/
+
+
+}
+/*.two{
+   position: relative; 
+   word-wrap: break-word; 
+   margin-right: 10%; 
+   padding-right: 5%;
+   margin-bottom: 5%;
+}*/
+
+.heading p{
+    color: #4f4b4b; 
+    font-size: 2vw;
+    letter-spacing: 3px; 
+    margin-top: 3%;
+}
+.experience p{
+color: #4f4b4b; 
+letter-spacing: 0px; 
+font-family: 'Open Sans', sans-serif;
+}
+
+.experience{
+margin-top: 0%;
+margin-bottom: 0%;
+}
+
+.designer h4{
+    color: black;
+    margin-top: 5%;
+}
+
+.contact a{
+    color: #585c5f;
+}
+.contact-info .glyphs {
+    padding-top: 2%;
+}
+}
+
+
+
+
+@media only screen and (min-width: 768px) {
+.communicator{
+    margin-top: 3%;
+}
+.developer{
+    margin-top: 3%;
+}
+.pms{
+    margin-top: 3%;
+}
+.education{
+    margin-top: 3%;
+}
+.progress{
+    margin-bottom: 5px;
+}
+
+.education label{
+    color: grey;
+}
+.tech-box label{
+        color: grey;
+}
+.progress span{
+    color: grey;
+}
+.education h4{
+    color: grey;
+}
+.teaching h3, h4, p{
+      color: black;
+}
+.contact h3, h4, p{
+    color: black;
+}
+.contact .btn{
+    text-align: left;
+    padding-left: 0px;
+}
+.main-panel{
+    position: relative;  
+    height: 100%; 
+    padding-right: 0px;
+}
+
+#main{
+    /*padding-left: 10%;*/
+    margin-left: 0%;
+    padding-left: 0px;
+}
+
+.main-area h1{
+    font-size: 7vw;
+}
+.main-area img{
+    height: 12%; 
+    /*float: left;*/
+}
+.right-container{
+    
+    background: black !important;
+    position: relative;
+/*z-index: 999;*/
+
+
+}
+/*.two{
+   position: relative; 
+   word-wrap: break-word; 
+   margin-right: 10%; 
+   padding-right: 5%;
+   margin-bottom: 5%;
+}*/
+
+.heading p{
+    color: #4f4b4b; 
+    font-size: 2vw;
+    letter-spacing: 3px; 
+    margin-top: 3%;
+}
+.experience p{
+color: #4f4b4b; 
+letter-spacing: 0px; 
+font-family: 'Open Sans', sans-serif;
+}
+
+.experience{
+margin-top: 0%;
+margin-bottom: 0%;
+}
+
+.designer h4{
+    color: black;
+    margin-top: 5%;
+}
+
+.contact a{
+    color: #585c5f;
+}
+.contact-info .glyphs {
+    padding-top: 2.5%;
+}
+}
+
+@media only screen and (min-width: 1020px) {
+
+.progress{
+    margin-bottom: 5px;
+}
+
+.education label{
+    color: grey;
+}
+.tech-box label{
+        color: grey;
+}
+.progress span{
+    color: grey;
+}
+.education h4{
+    color: grey;
+}
+.teaching h3, h4, p{
+      color: black;
+}
+.contact h3, h4, p{
+    color: black;
+}
+.main-panel{
+    position: relative;  
+    height: 100%; 
+    padding-right: 0px;
+}
+
+#main{
+    /*padding-left: 10%;*/
+    margin-left: 0%;
+    padding-left: 0px;
+}
+
+.main-area h1{
+    font-size: 6vw;
+}
+.main-area img{
+    height: 17%; 
+    /*float: left;*/
+}
+.right-container{
+    
+    background: black !important;
+    position: relative;
+/*z-index: 999;*/
+
+
+}
+.twos{
+   position: relative; 
+   word-wrap: break-word; 
+   margin-right: 10%; 
+   padding-right: 5%;
+   margin-bottom: 5%;
+}
+
+.heading p{
+    color: #4f4b4b; 
+    font-size: 2vw;
+    letter-spacing: 3px; 
+    margin-top: 3%;
+}
+.experience p{
+color: #4f4b4b; 
+letter-spacing: 0px; 
+font-family: 'Open Sans', sans-serif;
+}
+
+.experience{
+margin-top: 0%;
+margin-bottom: 0%;
+}
+
+.designer h4{
+    color: black;
+    margin-top: 5%;
+}
+
+.contact a{
+    color: #585c5f;
+}
+.contact-info .glyphs {
+    padding-top: 1%;
+}
+}
+
+.skillset{
+
+    display: inline-block;
+    /*text-align: center;*/
+}
+.dial{
+    text-align: center; 
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+
+
+@media only screen and (max-width: 414px) {
+    .social .btn{
+        padding-left: 0px;
+    }
+    .dial{
+    text-align: center; 
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 8%;
+}
+.dial .one{
+    position: absolute; 
+   top: 100%; 
+    left: 25%; 
+}
+.dial .twos{
+    position: absolute; 
+   top: 100%; 
+    left: 31%; 
+}
+.dial .three{
+    position: absolute; 
+   top: 100%; 
+    left: 23%; 
+}
+.dial .four{
+    position: absolute; 
+   top: 100%; 
+    left: 18%; 
+}
+.dial .five{
+    position: absolute; 
+   top: 100%; 
+    left: 16%; 
+}
+.dial .six{
+    position: absolute; 
+   top: 100%; 
+    left: 18%; 
+}
+.seven{
+    position: absolute; 
+   top: 100%; 
+    left: 14%; 
+}
+.dial .eight{
+    position: absolute; 
+   top: 100%; 
+    left: -2%; 
+}
+.contact{
+    padding-left: 0px;
+}
+.glyphs{
+    padding-left: 0px;
+}
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+   .glyphs{
+    padding-left: 0px;
+}
+.contact{
+    padding-left: 0px;
+}
+.dial .one{
+    position: absolute; 
+   top: 100%; 
+    left: 17%; 
+}
+.dial .twos{
+    position: absolute; 
+   top: 100%; 
+    left: 20%; 
+}
+.dial .three{
+    position: absolute; 
+   top: 100%; 
+    left: 15%; 
+}
+.dial .four{
+    position: absolute; 
+   top: 100%; 
+    left: 12%; 
+}
+.dial .five{
+    position: absolute; 
+   top: 100%; 
+    left: 13%; 
+}
+.dial .six{
+    position: absolute; 
+   top: 100%; 
+    left: 12%; 
+}
+.seven{
+    position: absolute; 
+   top: 100%; 
+    left: 10%; 
+}
+.dial .eight{
+    position: absolute; 
+   top: 100%; 
+    left: -2%; 
+}
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1020px) {
+.dial .one{
+    position: absolute; 
+   top: 100%; 
+    left: 12%; 
+}
+.dial .two{
+    position: absolute; 
+   top: 100%; 
+    left: 14%; 
+}
+.dial .three{
+    position: absolute; 
+   top: 100%; 
+    left: 12%; 
+}
+.dial .four{
+    position: absolute; 
+   top: 100%; 
+    left: 9%; 
+}
+.dial .five{
+    position: absolute; 
+   top: 100%; 
+    left: 8%; 
+}
+.dial .six{
+    position: absolute; 
+   top: 100%; 
+    left: 7%; 
+}
+.seven{
+    position: absolute; 
+   top: 100%; 
+    left: 8%; 
+}
+.dial .eight{
+    position: absolute; 
+   top: 100%; 
+    left: -1%; 
+}
+}
+.education{
+ margin-bottom: 5%;
+}

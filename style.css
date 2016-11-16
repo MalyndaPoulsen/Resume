@@ -3,6 +3,9 @@
     font-family: 'Open Sans', sans-serif;
     
   }
+  hr{
+      margin-left: -15px;
+  }
 
 a, li{
     font-family: 'Open Sans', sans-serif;
@@ -77,7 +80,7 @@ padding-left: 5%;
 
 .heading p{
     color: #4f4b4b; 
-    font-size: 2vw;
+    font-size: 3vw;
     letter-spacing: 3px; 
     margin-top: 3%;
 }

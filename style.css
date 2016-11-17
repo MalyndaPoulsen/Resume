@@ -1,7 +1,7 @@
- body, html{
+ body, html, p{
    
     font-family: 'Open Sans', sans-serif;
-    
+    color: #3e3b3b;
   }
   hr{
       margin-left: -15px;
@@ -41,7 +41,7 @@ padding-left: 5%;
       color: black;
 }
 .contact h3, h4, p{
-    color: black;
+    color: #3e3b3b;
 }
 .main-panel{
     position: relative;  
@@ -79,13 +79,13 @@ padding-left: 5%;
 }*/
 
 .heading p{
-    color: #4f4b4b; 
+    color: #3e3b3b; 
     font-size: 3vw;
     letter-spacing: 3px; 
     margin-top: 3%;
 }
 .experience p{
-color: #4f4b4b; 
+color: #3e3b3b; 
 letter-spacing: 0px; 
 font-family: 'Open Sans', sans-serif;
 }
@@ -140,10 +140,13 @@ margin-bottom: 0%;
 .education h4{
     color: grey;
 }
-.teaching h3, h4, p{
+.teaching h3, h4, {
       color: black;
 }
-.contact h3, h4, p{
+/*.teaching p{
+    color: #3e3b3b;
+}*/
+.contact h3, h4, {
     color: black;
 }
 .contact .btn{
@@ -192,7 +195,7 @@ margin-bottom: 0%;
     margin-top: 3%;
 }
 .experience p{
-color: #4f4b4b; 
+color: #3e3b3b; 
 letter-spacing: 0px; 
 font-family: 'Open Sans', sans-serif;
 }
@@ -234,10 +237,10 @@ margin-bottom: 0%;
 .education h4{
     color: grey;
 }
-.teaching h3, h4, p{
+.teaching h3, h4, {
       color: black;
 }
-.contact h3, h4, p{
+.contact h3, h4, {
     color: black;
 }
 .main-panel{
@@ -282,7 +285,7 @@ margin-bottom: 0%;
     margin-top: 3%;
 }
 .experience p{
-color: #4f4b4b; 
+color: #3e3b3b; 
 letter-spacing: 0px; 
 font-family: 'Open Sans', sans-serif;
 }
@@ -485,7 +488,9 @@ margin-bottom: 0%;
  margin-bottom: 5%;
 }
 
-
+.experience p{
+    font-family: 'Oswald', sans-serif;
+}
 
 
 h1, h2, h3, h4, p, html{
@@ -524,19 +529,3 @@ display: none;
 }
 
 
-
-.one li{
-    font-size: 1.5vw;
-}
-.two li{
-    font-size: 1.5vw;
-}
-.three li{
-    font-size: 1.5vw;
-}
-.four li{
-    font-size: 1.5vw;
-}
-.five li{
-    font-size: 1.5vw;
-}

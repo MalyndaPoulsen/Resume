@@ -302,6 +302,7 @@ margin-bottom: 0%;
 }
 .contact-info .glyphs {
     padding-top: 1%;
+    font-size: 1.5vw;
 }
 }
 
@@ -482,4 +483,60 @@ margin-bottom: 0%;
 }
 .education{
  margin-bottom: 5%;
+}
+
+
+
+
+h1, h2, h3, h4, p, html{
+font-family: 'Oswald', sans-serif;
+}
+.me p, label{
+     font-family: 'Open Sans', sans-serif;
+     text-align: left; 
+}
+a, li{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*
+#printThis{
+display: none;
+}*/
+@media screen {
+  #printThis {
+      display: none;
+  }
+}
+
+@media print {
+  body * {
+    visibility:hidden;
+  }
+  #printSection, #printSection * {
+    visibility:visible;
+  }
+  #printSection {
+    position:absolute;
+    left:0;
+    top:0;
+  }
+}
+
+
+
+.one li{
+    font-size: 1.5vw;
+}
+.two li{
+    font-size: 1.5vw;
+}
+.three li{
+    font-size: 1.5vw;
+}
+.four li{
+    font-size: 1.5vw;
+}
+.five li{
+    font-size: 1.5vw;
 }
